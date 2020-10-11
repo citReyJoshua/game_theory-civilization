@@ -1,0 +1,7 @@
+Civilization Game
+
+Instructions:
+  Civilization is a competitive game of saving money. Each of the four(4) players start off with 0 unit money (EARNINGS). 
+  For every turn (in a total of 4 turns), they obtain 1 unit money. They could choose to either BOYCOTT (avoid) donating their money to the bank, 
+  which means they could keep it in earnings, OR, they could choose to DONATE it to the BANK. After a set (4 turns) the banks money inflates
+  and is divided to every players in proportion to their donations. Players with the most EARNINGS win the game.
